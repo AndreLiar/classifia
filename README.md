@@ -40,7 +40,6 @@ https://github.com/user-attachments/assets/3dc7639e-88b9-4666-ad0f-8edce7662097
 
 - **Frontend** : React + TypeScript
 - **IA** : Gemini API (Google Generative AI)
-- **Speech** : Web Speech API (Text-to-Speech)
 - **UI** : Bootstrap 5
 - **Routing** : React Router DOM
 - **Déploiement** : Vite
