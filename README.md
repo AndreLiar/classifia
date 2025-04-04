@@ -3,6 +3,10 @@
 > Un projet IA for Good pour sensibiliser au tri sélectif grâce à l’intelligence artificielle.  
 > 🧠 Propulsé par Gemini + React
 
+
+https://github.com/user-attachments/assets/3dc7639e-88b9-4666-ad0f-8edce7662097
+
+
 ---
 
 ## 🌍 À propos
@@ -16,7 +20,7 @@ Ce projet a été conçu dans le cadre du **Hackathon “IA for Good”**.
 
 ## 🚀 Démo
 
-![Demo GIF](public/demo.gif) <!-- Remplace par ton GIF ou vidéo -->
+<!-- Remplace par ton GIF ou vidéo -->
 
 👉 [Lien de l'application (si déployée)](https://ton-deploiement.vercel.app) *(optionnel)*
 
