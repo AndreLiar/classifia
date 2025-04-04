@@ -1,7 +1,7 @@
 # ♻️ ClassifIA – Classificateur de déchets intelligent
 
 > Un projet IA for Good pour sensibiliser au tri sélectif grâce à l’intelligence artificielle.  
-> 🧠 Propulsé par Gemini + React + Web Speech API
+> 🧠 Propulsé par Gemini + React
 
 ---
 
