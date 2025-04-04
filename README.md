@@ -4,8 +4,6 @@
 > 🧠 Propulsé par Gemini + React
 
 
-https://github.com/user-attachments/assets/3dc7639e-88b9-4666-ad0f-8edce7662097
-
 
 ---
 
@@ -22,7 +20,7 @@ Ce projet a été conçu dans le cadre du **Hackathon “IA for Good”**.
 
 <!-- Remplace par ton GIF ou vidéo -->
 
-👉 [Lien de l'application (si déployée)](https://ton-deploiement.vercel.app) *(optionnel)*
+https://github.com/user-attachments/assets/3dc7639e-88b9-4666-ad0f-8edce7662097
 
 ---
 
